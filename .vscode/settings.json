@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "pracitca migraciones"
+        "pracitca migraciones",
+        "veloccidad codificacion api"
     ]
 }
