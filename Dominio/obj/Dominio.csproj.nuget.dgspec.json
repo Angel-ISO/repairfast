@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-041/Documents/repairfast/Dominio/Dominio.csproj": {}
+    "/home/angelgabriel/Documentos/repairfast/Dominio/Dominio.csproj": {}
   },
   "projects": {
-    "/home/apolM01-041/Documents/repairfast/Dominio/Dominio.csproj": {
+    "/home/angelgabriel/Documentos/repairfast/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-041/Documents/repairfast/Dominio/Dominio.csproj",
+        "projectUniqueName": "/home/angelgabriel/Documentos/repairfast/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/apolM01-041/Documents/repairfast/Dominio/Dominio.csproj",
-        "packagesPath": "/home/apolM01-041/.nuget/packages/",
-        "outputPath": "/home/apolM01-041/Documents/repairfast/Dominio/obj/",
+        "projectPath": "/home/angelgabriel/Documentos/repairfast/Dominio/Dominio.csproj",
+        "packagesPath": "/home/angelgabriel/.nuget/packages/",
+        "outputPath": "/home/angelgabriel/Documentos/repairfast/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-041/.nuget/NuGet/NuGet.Config"
+          "/home/angelgabriel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
